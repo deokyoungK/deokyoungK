@@ -33,7 +33,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kang48450)](https://solved.ac/kang48450/)
 
 
-### 📞Contact
+### 📲Contact
 kang48450@gmail.com
 
 
