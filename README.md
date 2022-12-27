@@ -1,5 +1,5 @@
 
-### 🖐Hi there, I'm KangDukYoung
+### 🖐Hi, I'm deokyoung
 
 ### 🍀Skills
 <div>
@@ -33,7 +33,11 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kang48450)](https://solved.ac/kang48450/)
 
 
-### 📲Contact
-kang48450@gmail.com
+### 📲Follow Me
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://everydayyy.tistory.com/)](https://everydayyy.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kang48450@gmail.com)](mailto:kang48450@gmail.com)
+
+
+
 
 
