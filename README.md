@@ -1,7 +1,7 @@
 
-### 🖐Hi, I'm deokyoung
+#### Hi, I'm deokyoung🖐
 
-### 🍀Skills
+<!-- ### 🍀Skills
 <div>
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
@@ -24,14 +24,14 @@
 <div>
 <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
-</div>
+</div> -->
 
 
- ### 💪Problem solving
+ #### Problem solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kang48450)](https://solved.ac/kang48450/)
 
 
-### 📲Follow Me
+#### Follow Me
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://everydayyy.tistory.com/)](https://everydayyy.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kang48450@gmail.com)](mailto:kang48450@gmail.com)
 
